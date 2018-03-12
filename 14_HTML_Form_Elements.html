@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Html form elements</title>
+    <style>
+    	div{
+
+
+    		background-color: teal;
+    		width: 300px;
+    		color: white;
+    		margin: 10px;
+    		padding: 10px;
+    	}
+    </style>
+</head>
+<body>
+
+
+    <!-- input and label -->
+    <div>
+    	<form>
+    		<label for="username">UserName</label>
+    		<input type="text" id="username">
+    		<br>
+    		<label for="password1">password</label>
+    		<input type="password" id="password1">
+    		<br>
+    		<input type="submit" value="submit">
+
+    	</form>
+
+    </div>
+    <h2>Form inside a table</h2>
+    <div>
+    	<form>
+    		<table>
+    			<tr>
+    				<td>
+    					<label for="username">UserName</label>
+    				</td>
+    				<td>
+    					<input type="text" id="username">
+    				</td>
+    			</tr>
+    			<tr>
+    				<td>
+    					<label for="password1">password</label>
+    				</td>
+    				<td>
+    					<input type="password" id="password1">
+    				</td>
+    			</tr>
+    			<tr>
+    				<td>
+    						<input type="submit" value="submit">
+    				</td>
+    			</tr>
+    		</table>
+
+    	</form>
+
+    </div>
+
+
+    <!-- Select and Option -->
+    
+    <div>
+    	<form>
+    	<label>select s technology</label>
+    	<select id="select">
+    		<option>HTML</option>
+    		<option>CSS</option>
+    		<option>JAVASCRIPT</option>
+    		<option>JQUERY</option>
+    		<option>BOOTSTRAP</option>
+    		<option>ANGULARJS</option>
+
+    	</select>
+    </form>
+    </div>
+
+    <!-- Textarea -->
+    <div>
+    	<form>
+    		<label for="message">Your Message</label>
+    		<textarea rows="4" cols="20" id="message"></textarea>
+    	</form>
+    </div>
+
+    <!-- button -->
+    <div>
+    	<form>
+    		<table>
+    			<tr>
+    				<td>
+    					<label for="username">UserName</label>
+    				</td>
+    				<td>
+    					<input type="text" id="username">
+    				</td>
+    			</tr>
+    			<tr>
+    				<td>
+    					<label for="password1">password</label>
+    				</td>
+    				<td>
+    					<input type="password" id="password1">
+    				</td>
+    			</tr>
+    			<tr>
+    				<td>
+    					<input type="submit" value="Submit">
+    				</td>
+    				<td>
+    					<input type="reset" value="Reset">
+    				</td>
+    			</tr>
+    		</table>
+
+    	</form>
+
+    </div>
+
+
+    <!--HTML5 datalist -->
+    <div>
+    	<form>
+    		<label for="technology">select tech:</label>
+    		<input list="technology" name="tech">
+    		<datalist id="technology">
+    			<option value="HTML">
+    			<option value="CSS">
+    			<option value="JAVASCRIPT">
+    			<option value="BOOTSTRAP">
+    			<option value="ANGULARJS">
+    			<option value="AJAX">
+    	    			
+    		</datalist>
+    	</form>
+    </div>
+
+
+
+</body>
+</html>

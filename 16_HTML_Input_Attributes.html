@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML INPUTS ATTRIBUTES</title>
+    <style>
+    	div{
+
+    		background-color: seagreen;
+    		color: white;
+    		width: 350px;
+    		padding: 10px;
+    		margin: 5px
+
+    	}
+    </style>
+</head>
+<body>
+
+    <!-- input attributes value , readonly , size , rows , cols-->
+    <!-- value attributes -->
+	<div>
+    	<label for="username">Enter your name</label>
+    	<input type="text" id="username" value="Amol">
+    </div>
+
+    <!-- readonly attributes-->
+
+    <div>
+    	<label for="username1">Enter your name</label>
+    	<input type="text" id="username1" value="Amol" readonly>
+    </div>
+
+    <!-- size attributes -->
+
+    <div>
+    	<label for="username2">Enter your name</label>
+    	<input type="text" id="username2" size="28">
+    </div>
+
+    <!-- no validate attributes -->
+
+    <div>
+    <form novalidate>
+    	<label for="email">enter email</label>
+    	<input type="email" id="email">
+    	<input type="submit" value="submit">
+    </form>
+    </div>
+
+    <!-- autofocus attributes-->
+    <div>
+    	<label for="username3">UserName</label>
+    	<input type="username3" id="username3" autofocus>
+    	<br>
+    	<label for="password">password</label>
+    	<input type="password" id="password">
+    	
+    </div>
+
+    <!-- pattern attributes -->
+
+    <div>
+    	<form>
+    	<label for="username4">UserName</label>
+    	<input type="text" id="username4" pattern="^[A-Za-z0-9_]{1,15}$">
+    	<input type="submit" value="submit">
+    </form>
+    </div>
+
+    <!-- placeholder attribute -->
+
+    <div>
+    	<form>
+    	<input type="text" placeholder="Enter your name">
+    	<input type="submit" value="submit">
+    </form>
+    </div>
+    <!-- HTML 5 Form Attributes required ,
+    no-validate , autofocus , pattern , placeholder -->
+
+
+</body>
+</html>
