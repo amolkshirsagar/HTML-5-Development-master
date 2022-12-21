@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Integration of Jira with ServiceNow for better productivity and business growth</title>
+    
+  <style type="text/css">
+		[style*=Open Sans]{
+			font-family:'Open Sans',Arial,sans-serif !important;
+		}
+		a:active{
+			color:#000;
+		}
+		img{
+			margin:0;
+			padding:0;
+		}
+		a{color:#009c93; text-decoration: none;}
+		
+		table {
+    display: table;
+    border-collapse:collapse;
+    border-color: white;
+		}
+		td {
+		    vertical-align: top;
+		}
+
+		/*.inner_table, .inner_table td{ border:1px solid #333; p }*/
+		/*.inner_table td{padding-left: 8px;}*/
+</style></head>
+  <body bgcolor="#d4d6e3" background="#d4d6e3" lang="EN-US">
+<!-- / Outer table -->
+<table bgcolor="#d4d6e3" border="0" cellpadding="0" cellspacing="0" width="100%" style="  font-size: 14px;">
+	<tbody>
+		<!--<tr>
+			<td height="10" class="">&nbsp;</td>
+		</tr> -->
+		<tr>
+			<td><!--  600 container table -->
+			<table align="center" bgcolor="#9ca5bc" border="0" cellpadding="0" cellspacing="0" width="600" style="border-top: 5px solid #d4d6e3; border-left: 5px solid #d4d6e3; border-right: 5px solid #d4d6e3;">
+				<tbody>
+					<tr>
+						<td bgcolor="#FFFFFF">
+						<table bgcolor="#ffffff" border="0" cellpadding="7" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td width="3" class="">&nbsp;</td>
+									<td width="100" class=""><a href="https://www.jadeglobal.com/"><img alt="Jade Global" style="margin-top: 5px;" border="0" height="50" src="images/jadeGlobal-new.png" width="auto"></a></td>
+									<td width="394" class="">&nbsp;</td>
+									<td width="394" class="">&nbsp;</td>
+									<td width="394" class="">&nbsp;</td>
+									<td width="394" class="">&nbsp;</td>
+									<td width="394" class="">&nbsp;</td><td width="394" class="">&nbsp;</td><td width="394" class="">&nbsp;</td><td width="394" class="">&nbsp;</td>
+									<td width="100" class="" align="center"><img alt="" border="0" style="margin-top: px;" height="auto" src="images/blog-01.jpg" width="70px"></td>
+									<!--<td width="100" class=""><p style="color: #868989; font-size: 17px; font-family: Segoe UI; margin-top: 10px;"><b>Blog</b></p></td> -->
+									<td width="3" class="">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						<table align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="600">
+							<tbody>
+								<tr>
+									<td align="center" bgcolor="#fff" height="70" pardot-data="" style="background: #fff;" valign="middle" width="603" class=""><a href="https://jadeglobal.co/3KXHzr1"><img alt="Image banner" border="0" height="auto" src="images/jira-integration-banner.jpg" style="width: 603px; height: auto; border-width: 0px; border-style: solid;" width="600"></a>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+				<!--		<table align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="600">
+							<tbody>
+								<tr>
+									<td align="center" bgcolor="#fff" height="70" pardot-data="" style="background: #fff;" valign="middle" width="auto" class=""><img alt="" border="0" height="auto" src="images/business-challenges.jpg" style="width: 603px; height: auto; border-width: 0px; border-style: solid;" width="600">
+									</td>
+								</tr>
+							</tbody>
+						</table> -->
+			
+			
+											
+			<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+             	
+					
+                <tr align="">
+                  <td>		
+				
+				<p style="color: #3f3f3f; font-size: 14px; font-family: poppins; margin-top: 5px;">
+				
+				<b style="color:#0d6b9c;">Author name : Ratnadip Dhulshette</b><br>
+				
+				</p>
+						
+				<p style="color: #3f3f3f; font-size: 14px; font-family: poppins; margin-top: 5px;">
+				
+				<b style="color:#0d6b9c;">Introduction</b><br><br>
+				Jira Software is used for Issue tracking and project management, providing effective and efficient software delivery. The engineers working on ServiceNow Incident may need to create a Task in Jira Issue for the engineering team to work on this.<br><br>
+				</p>
+								
+				<p style="color: #3f3f3f; font-size: 14px; font-family: poppins; margin-top: 5px;">
+				<b style="color:#0d6b9c;">Impact on the Business:</b><br>
+				
+				<ul style="color: #3f3f3f; font-size: 14px; font-family: poppins; margin-top: 10px;">
+					<li>Improper Management of Information</li>
+					<li>Errors Caused due to Duplication of Updates in Multiple Applications</li>
+					<li>The Effort needed to update, manage and track activities in different instances</li>
+					<li>The Effort involved results in Time and Manpower, which indirectly contributes to the Operational Cost</li>
+				
+				</ul>
+								
+				
+				</p>
+				
+				</td>
+                </tr>
+			
+						
+              </tbody>
+            </table>
+			
+			
+			<table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+			<tbody>
+			
+			
+				<tr>
+                  <td align="center";>
+				  <br>
+				<a href="https://jadeglobal.co/3KXHzr1"><img alt="Read More" border="0" height="auto" src="images/Read-more.png" style="width: 200px; height: auto; border-width: 0px; border-style: solid;" width="200"></a>
+				<br><br><br><br>
+						
+				</td>
+				</tr>
+				
+				
+				
+			</tbody>
+			</table>
+						
+			<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody>
+				<tr>
+								<td>&nbsp;</td>
+							</tr>
+                <tr align="left">
+                  <td bgcolor="#111213" height="2" style="height:2px;">		
+				
+				</td>
+
+				</tr>
+              </tbody>
+            </table>		
+																	
+						</td>
+					</tr>
+					
+					<tr>
+						<td>
+							<table bgcolor="#d4d6e3" style="background: #d4d6e3" width="100%">
+							
+								<tbody>
+									<tr>
+										<td  width="15" class="">&nbsp;</td>
+										<td  style="text-align: center; margin-top: 10px; margin-bottom: 10px; line-height: 40px;" class="" pardot-data="">
+											<div style="font-family:'Lato';padding:0; color: #5e6774;  font-size:14px; font-weight: normal">
+												<p>© 2022 <a href="https://www.jadeglobal.com/" style="color: #5e6774;">Jade Global</a> All Rights Reserved.<br></p>
+
+												
+											</div>
+										</td>
+										<td bgcolor="#d4d6e3" width="15" class="">&nbsp;</td>
+									</tr>
+									<tr>
+										<td>&nbsp;</td>
+										<td>
+	                                       <table align="center" border="0" cellpadding="0" cellspacing="0" style="" >
+	                                            <tbody>
+	                                                <tr>
+	                                                    <td align="center" valign="center" class="" width="40px" height="40px">
+	                                                        <a href="https://www.linkedin.com/company/jade-global" target="_blank" ><img alt="LinkedIn" border="0" src="images/linkedin.png" width="28" height="28" style="width:28px; height:28px;"></a>&nbsp;
+	                                                    </td>
+	                                                    <td align="center" valign="center" class="" width="40px" height="40px">
+	                                                        <a href="https://twitter.com/JadeGlobal" target="_blank"><img alt="Twitter" border="0" src="images/twitter.png" width="28" height="28" style="width:28px; height:28px;"></a>&nbsp;
+	                                                    </td>
+	                                                    <td align="center" valign="center" class="" width="40px" height="40px">
+	                                                        <a href="https://www.facebook.com/jadeglobal" target="_blank"><img alt="Facebook" border="0" src="images/facebook.png" width="28" height="28" style="width:28px; height:28px;"></a>&nbsp;
+	                                                    </td>
+	                                                    <td align="center" valign="center" class="" width="40px" height="40px">
+	                                                        <a href="https://www.youtube.com/c/jadeglobal" target="_blank"><img alt="YouTube" border="0" src="images/youtube.png" width="28" height="28" style="width:28px; height:28px;"></a>&nbsp;
+	                                                    </td>
+	                                                </tr>
+	                                            </tbody>
+	                                        </table>
+	                                    </td>
+	                                    <td>&nbsp;
+	                                    	
+	                                    </td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- /  600 container table --></td>
+		</tr>
+
+		<tr>
+			<td height="10" class="">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<!-- / Outer table -->
+</body>
+</html>
